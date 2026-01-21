@@ -9,7 +9,7 @@
       "files": [
         {
           "fileType": "anndata.zarr",
-          "url": "http://qwneuron.github.io/MERFISH-spinal-cord-wildtype/0328-wildtype-anndata.zarr",
+          "url": "http://MERFISH-spinal-cord-wildtype/0328-wildtype-anndata.zarr",
           "options": {
             "obsEmbedding": [
               {
